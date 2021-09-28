@@ -1,0 +1,2 @@
+# FoodTruck
+A Mobile Application using Flutter for suggesting healthier alternative food products based on the food product they choose. Basically User will scan the bar-code of the food product and based on that our app will suggest users the healthier alternative using ML and Image Processing and if the barcode is not in our database we will ask the user to upload the food-product details into our DataBase. 
